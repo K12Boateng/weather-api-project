@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Env files (never commit secrets)
+.env
+src/.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
